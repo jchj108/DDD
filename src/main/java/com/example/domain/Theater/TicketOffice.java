@@ -1,8 +1,6 @@
-package com.example.domain;
+package com.example.domain.Theater;
 
 import lombok.Getter;
-
-import java.util.List;
 
 @Getter
 public class TicketOffice {
