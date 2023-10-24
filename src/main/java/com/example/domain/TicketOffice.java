@@ -8,6 +8,9 @@ import java.util.List;
 public class TicketOffice {
     private Long amount;
 
-    private List<Ticket> tickets;
+    private Ticket tickets;
 
+    public void plusAmount(Long fee) {
+        this.amount += fee;
+    }
 }
