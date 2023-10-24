@@ -1,4 +1,4 @@
-package com.example.domain.Theater;
+package com.example.domain.theater;
 
 public class Theater {
     private TicketSeller ticketSeller;

@@ -1,4 +1,4 @@
-package com.example.domain.Theater;
+package com.example.domain.theater;
 
 import java.time.LocalDateTime;
 

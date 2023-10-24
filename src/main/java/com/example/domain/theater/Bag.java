@@ -1,4 +1,4 @@
-package com.example.domain.Theater;
+package com.example.domain.theater;
 
 import lombok.Getter;
 import lombok.Setter;
